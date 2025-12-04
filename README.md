@@ -1,6 +1,5 @@
-🎬 Biblio Movie - Tu Explorador de Películas
+#🎬 Biblio Movie - Tu Explorador de Películas
 
-<!-- Puedes reemplazar el enlace de arriba con una imagen real de tu app -->
 
 CineVerse es una aplicación móvil moderna e intuitiva diseñada para los amantes del cine. Permite a los usuarios descubrir películas en tendencia, buscar sus títulos favoritos y consultar detalles profundos sobre el elenco y las valoraciones.
 
