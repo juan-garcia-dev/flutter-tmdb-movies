@@ -1,0 +1,11 @@
+# Ignorar archivos de C y C++ en las estadísticas
+*.c linguist-vendored
+*.h linguist-vendored
+*.cpp linguist-vendored
+
+# Si es un proyecto Flutter, ignora las carpetas nativas completas
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
