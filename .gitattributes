@@ -2,6 +2,7 @@
 *.c linguist-vendored
 *.h linguist-vendored
 *.cpp linguist-vendored
+*.html linguist-vendored
 
 # Si es un proyecto Flutter, ignora las carpetas nativas completas
 windows/** linguist-vendored
