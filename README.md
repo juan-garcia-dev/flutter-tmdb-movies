@@ -24,3 +24,22 @@ Construida con **Flutter** y **Dart**, consumiendo la API de **The Movie Databas
 * **🎨 UI Elegante:** Interfaz limpia con transiciones suaves (*Hero Animations*).
 
 ---
+
+## 🔧 Instalación y Ejecución
+
+1.  Clona este repositorio:
+    ```bash
+    git clone [https://github.com/juan-garcia-dev/flutter-tmdb-movies.git](https://github.com/juan-garcia-dev/flutter-tmdb-movies.git)
+    ```
+
+2.  Instala las dependencias:
+    ```bash
+    flutter pub get
+    ```
+
+3.  Crea un archivo `.env` en la raíz (si es necesario) para tu API Key.
+
+4.  Ejecuta la aplicación:
+    ```bash
+    flutter run
+    ```
